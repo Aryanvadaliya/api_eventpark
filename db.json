@@ -1,0 +1,248 @@
+{
+    "events": [
+      {
+        "id": "1",
+        "name": "Comedy Night",
+        "description": "A stand-up comedy show featuring local comedians.",
+        "date": "2025-02-10T20:00:00Z",
+        "location": "Prithvi Theatre, Mumbai",
+        "availableSeats": 200,
+        "ticketPrice": 40,
+        "image": "https://media.timeout.com/images/100544703/image.jpg",
+        "category": "Comedy",
+        "duration": "2 Hours"
+      },
+      {
+        "id": "2",
+        "name": "Art Exhibition",
+        "description": "A showcase of contemporary art by local artists.",
+        "date": "2025-03-01T10:00:00Z",
+        "location": "National Gallery of Modern Art, New Delhi",
+        "availableSeats": 100,
+        "ticketPrice": 25,
+        "image": "https://d197irk3q85upd.cloudfront.net/catalog/product/cache/95dbdf78ad5a0d4b547132f80fbac8f3/e/x/exhibition_banner_1.jpg",
+        "category": "Art",
+        "duration": "4 Hours"
+      },
+      {
+        "id": "3",
+        "name": "Music Concert",
+        "description": "A live music concert featuring popular bands.",
+        "date": "2025-03-15T19:00:00Z",
+        "location": "Jawaharlal Nehru Stadium, New Delhi",
+        "availableSeats": 500,
+        "ticketPrice": 75,
+        "image": "https://petapixel.com/assets/uploads/2023/07/how-to-shoot-music-concert-featured-image.jpg",
+        "category": "Music",
+        "duration": "3 Hours"
+      },
+      {
+        "id": "4",
+        "name": "Wine Tasting Experience",
+        "description": "A refined evening tasting wines from local vineyards.",
+        "date": "2025-03-30T17:00:00Z",
+        "location": "Sula Vineyards, Nashik",
+        "availableSeats": 100,
+        "ticketPrice": 80,
+        "image": "https://cdn.stocksnap.io/img-thumbs/960w/wine-tasting_T8FNYMYTHK.jpg",
+        "category": "Food & Drink",
+        "duration": "2 Hours",
+        "isMticketAvailable": true
+      },
+      {
+        "id": "5",
+        "name": "Tech Conference",
+        "description": "A conference featuring keynote speakers from the tech industry.A conference featuring keynote speakers from the tech industry.A conference featuring keynote speakers from the tech industry.A conference featuring keynote speakers from the tech industry.A conference featuring keynote speakers from the tech industry.A conference featuring keynote speakers from the tech industry.",
+        "date": "2025-04-20T09:00:00Z",
+        "location": "Bangalore International Exhibition Center, Bangalore",
+        "availableSeats": 300,
+        "ticketPrice": 150,
+        "image": "https://cdn.tech.eu/uploads/2018/04/infoshare-pic.jpg",
+        "category": "Conference",
+        "duration": "6 Hours"
+      },
+      {
+        "id": "6",
+        "name": "Film Screening: Indie Films",
+        "description": "An evening of screening the best indie films from new filmmakers.",
+        "date": "2025-04-05T20:00:00Z",
+        "location": "PVR Cinemas, Chennai",
+        "availableSeats": 150,
+        "ticketPrice": 12,
+        "image": "https://apis.xogrp.com/media-api/images/e38da70a-95ca-11e4-843f-22000aa61a3e",
+        "category": "Film",
+        "duration": "3 Hours"
+      },
+      {
+        "id": "7",
+        "name": "Literary Festival",
+        "description": "A celebration of literature with author readings and workshops.",
+        "date": "2025-04-25T09:00:00Z",
+        "location": "Indian Institute of Management, Ahmedabad",
+        "availableSeats": 200,
+        "ticketPrice": 40,
+        "image": "https://peaklife.in/wp-content/uploads/2017/12/14278617844_918fedabf9_o-e1524549949205.jpg",
+        "category": "Literature",
+        "duration": "3 Hours"
+      },
+      {
+        "id": "8",
+        "name": "Yoga Retreat",
+        "description": "A weekend of relaxation and yoga workshops in a tranquil environment.",
+        "date": "2025-05-05T07:00:00Z",
+        "location": "Ananda in the Himalayas, Rishikesh",
+        "availableSeats": 50,
+        "ticketPrice": 200,
+        "image": "https://i.pinimg.com/originals/42/e2/8f/42e28f91f8c0d742e1d191f16f7676a9.png",
+        "category": "Wellness",
+        "duration": "3 Hours"
+      },
+      {
+        "id": "9",
+        "name": "Football Match: Championship",
+        "description": "An intense football match between top teams in the national championship.",
+        "date": "2025-05-22T15:00:00Z",
+        "location": "Salt Lake Stadium, Kolkata",
+        "availableSeats": 70000,
+        "ticketPrice": 50,
+        "image": "https://www.zastavki.com/pictures/originals/2013/Sport_Football_match_036616_.jpg",
+        "category": "Sports",
+        "duration": "3 Hours"
+      },
+      {
+        "id": "10",
+        "name": "Fashion Show",
+        "description": "A glamorous runway event showcasing the latest in fashion trends.",
+        "date": "2025-07-12T18:00:00Z",
+        "location": "Leela Palace, New Delhi",
+        "availableSeats": 350,
+        "ticketPrice": 100,
+        "image": "https://www.universityoffashion.com/blog/wp-content/uploads/2019/11/Louis-Vuittons-spring-2020-show.-vogue.jpg",
+        "category": "Fashion",
+        "duration": "3 Hours"
+      },
+      {
+        "id": "11",
+        "name": "Business Exhibition",
+        "description": "A glamorous runway event showcasing the latest in business trends.",
+        "date": "2025-05-15T10:00:00Z",
+        "location": "The Bombay Exhibition Centre, Mumbai",
+        "availableSeats": 30,
+        "ticketPrice": 150,
+        "image": "https://media.smallbiztrends.com/2015/09/trade-show-aerial.jpg",
+        "category": "Conference",
+        "duration": "4 Hours"
+      },
+      {
+        "id": "12",
+        "name": "Photography Workshop",
+        "description": "A hands-on workshop teaching advanced photography techniques.",
+        "date": "2025-05-15T10:00:00Z",
+        "location": "Sunset Studios, Goa",
+        "availableSeats": 30,
+        "ticketPrice": 150,
+        "image": "https://www.theoutbackexperience.in/wp-content/uploads/2016/07/nature_photography.jpg",
+        "category": "Workshop",
+        "duration": "5 Hours"
+      },
+      {
+        "id": 13,
+        "name": "Business Conference",
+        "description": "A conference featuring keynote speakers from the Business industry.A conference featuring keynote speakers from the Business industry.A conference featuring keynote speakers from the Business industry.A conference featuring keynote speakers from the Business industry.A conference featuring keynote speakers from the Business industry.A conference featuring keynote speakers from the Business industry.A conference featuring keynote speakers from the Business industry.",
+        "date": "2025-04-20T09:00:00Z",
+        "location": "Sarsana International Exhibition Center, Surat",
+        "availableSeats": 300,
+        "ticketPrice": 170,
+        "image": "https://www.aavmc.org/wp-content/uploads/2020/05/2020-conference-wide-shot-scaled.jpg",
+        "category": "Conference",
+        "duration": "8 Hours",
+        "isMticketAvailable": true
+      },
+      {
+        "id": "14",
+        "name": "Wellness Retreat",
+        "description": "A weekend of relaxation and yoga workshops in a tranquil environment.",
+        "date": "2025-05-05T07:00:00Z",
+        "location": "Ananda in the Himalayas, Rishikesh",
+        "availableSeats": 50,
+        "ticketPrice": 200,
+        "image": "https://i.pinimg.com/originals/42/e2/8f/42e28f91f8c0d742e1d191f16f7676a9.png",
+        "category": "Wellness",
+        "duration": "3 Hours"
+      }
+    ],
+    "categories": [
+      {
+        "id": "1",
+        "name": "Music"
+      },
+      {
+        "id": "2",
+        "name": "Conference"
+      },
+      {
+        "id": "3",
+        "name": "Wellness"
+      },
+      {
+        "id": "4",
+        "name": "Comedy"
+      },
+      {
+        "id": "5",
+        "name": "Art"
+      },
+      {
+        "id": "7",
+        "name": "Fashion"
+      },
+      {
+        "id": "9",
+        "name": "Film"
+      },
+      {
+        "id": "10",
+        "name": "Food & Drink"
+      },
+      {
+        "id": "11",
+        "name": "Literature"
+      }
+    ],
+    "users": [
+      {
+        "id": "1",
+        "firstName": "test",
+        "lastName": "user",
+        "email": "testuser@eventpark.com",
+        "password": "Test@123",
+        "role": "user",
+        "token": "ncvuiewnuiw8u29mvnewv43yfb4f"
+      },
+      {
+        "id": "2",
+        "firstName": "test",
+        "lastName": "",
+        "email": "test@eventpark.com",
+        "password": "Test@123",
+        "role": "user"
+      },
+      {
+        "id": "3",
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "admin@eventpark.com",
+        "password": "Test@123",
+        "role": "admin"
+      },
+      {
+        "email": "testuser3@eventpark.com",
+        "password": "Test@123",
+        "firstName": "test",
+        "lastName": "user 3",
+        "token": "bjhbewuivbiwjeb382y5y738hfuie",
+        "role": "user",
+        "id": "6LZnQhj"
+      }
+    ]
+  }
