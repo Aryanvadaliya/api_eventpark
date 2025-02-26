@@ -225,7 +225,8 @@
         "lastName": "",
         "email": "test@eventpark.com",
         "password": "Test@123",
-        "role": "user"
+        "role": "user",
+          "token": "ncvuiewrjfnjvdsvioiw8u29mvnewv43yfb4f"
       },
       {
         "id": "3",
@@ -233,14 +234,15 @@
         "lastName": "Johnson",
         "email": "admin@eventpark.com",
         "password": "Test@123",
-        "role": "admin"
+        "role": "admin",
+          "token": "ncvuiewnuiw8ejbvioviou29mvnewv43yfb4f"
       },
       {
         "email": "testuser3@eventpark.com",
         "password": "Test@123",
         "firstName": "test",
         "lastName": "user 3",
-        "token": "bjhbewuivbiwjeb382y5y738hfuie",
+        "token": "bjhbewuivbiwjeb3fubsufbq82y5y738hfuie",
         "role": "user",
         "id": "6LZnQhj"
       }
