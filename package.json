@@ -1,10 +1,17 @@
 {
-  "name": "json-server-api",
+  "name": "eventpark-api",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "json-server": "^0.17.4"
+    "express": "^4.21.2",
+    "json-server": "^1.0.0-beta.3",
+    "stripe": "^17.7.0"
   }
 }
