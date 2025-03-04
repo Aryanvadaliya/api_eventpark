@@ -215,7 +215,8 @@
         "firstName": "test",
         "lastName": "user",
         "email": "testuser@eventpark.com",
-        "password": "Test@123",
+        "password": "Test@123",,
+          "tickets": []
         "role": "user",
         "token": "ncvuiewnuiw8u29mvnewv43yfb4f"
       },
@@ -225,7 +226,9 @@
         "lastName": "",
         "email": "test@eventpark.com",
         "password": "Test@123",
-        "role": "user"
+        "role": "user",
+          "token": "ncvuieubvu89244u29mvnewv43yfb4f",
+          "tickets": []
       },
       {
         "id": "3",
@@ -233,14 +236,17 @@
         "lastName": "Johnson",
         "email": "admin@eventpark.com",
         "password": "Test@123",
-        "role": "admin"
+        "role": "admin",
+          "token": "ncvuiewnuiw7t68943hgu3rh8u29mvnewv43yfb4f",
+          "tickets": []
       },
       {
         "email": "testuser3@eventpark.com",
         "password": "Test@123",
         "firstName": "test",
         "lastName": "user 3",
-        "token": "bjhbewuivbiwjeb382y5y738hfuie",
+        "token": "bjhbewuivbiwjeb382y5y738hfuie",,
+          "tickets": []
         "role": "user",
         "id": "6LZnQhj"
       }
