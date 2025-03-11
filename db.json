@@ -7,7 +7,7 @@
         "date": "2025-02-10T20:00:00Z",
         "location": "Prithvi Theatre, Mumbai",
         "availableSeats": 200,
-        "ticketPrice": 40,
+        "ticketPrice": 599,
         "image": "https://media.timeout.com/images/100544703/image.jpg",
         "category": "Comedy",
         "duration": "2 Hours"
@@ -19,7 +19,7 @@
         "date": "2025-03-01T10:00:00Z",
         "location": "National Gallery of Modern Art, New Delhi",
         "availableSeats": 100,
-        "ticketPrice": 25,
+        "ticketPrice": 199,
         "image": "https://d197irk3q85upd.cloudfront.net/catalog/product/cache/95dbdf78ad5a0d4b547132f80fbac8f3/e/x/exhibition_banner_1.jpg",
         "category": "Art",
         "duration": "4 Hours"
@@ -31,7 +31,7 @@
         "date": "2025-03-15T19:00:00Z",
         "location": "Jawaharlal Nehru Stadium, New Delhi",
         "availableSeats": 500,
-        "ticketPrice": 75,
+        "ticketPrice": 699,
         "image": "https://petapixel.com/assets/uploads/2023/07/how-to-shoot-music-concert-featured-image.jpg",
         "category": "Music",
         "duration": "3 Hours"
@@ -43,7 +43,7 @@
         "date": "2025-03-30T17:00:00Z",
         "location": "Sula Vineyards, Nashik",
         "availableSeats": 100,
-        "ticketPrice": 80,
+        "ticketPrice": 1499,
         "image": "https://cdn.stocksnap.io/img-thumbs/960w/wine-tasting_T8FNYMYTHK.jpg",
         "category": "Food & Drink",
         "duration": "2 Hours",
@@ -56,7 +56,7 @@
         "date": "2025-04-20T09:00:00Z",
         "location": "Bangalore International Exhibition Center, Bangalore",
         "availableSeats": 300,
-        "ticketPrice": 150,
+        "ticketPrice": 249,
         "image": "https://cdn.tech.eu/uploads/2018/04/infoshare-pic.jpg",
         "category": "Conference",
         "duration": "6 Hours"
@@ -68,7 +68,7 @@
         "date": "2025-04-05T20:00:00Z",
         "location": "PVR Cinemas, Chennai",
         "availableSeats": 150,
-        "ticketPrice": 12,
+        "ticketPrice": 299,
         "image": "https://apis.xogrp.com/media-api/images/e38da70a-95ca-11e4-843f-22000aa61a3e",
         "category": "Film",
         "duration": "3 Hours"
@@ -80,7 +80,7 @@
         "date": "2025-04-25T09:00:00Z",
         "location": "Indian Institute of Management, Ahmedabad",
         "availableSeats": 200,
-        "ticketPrice": 40,
+        "ticketPrice": 199,
         "image": "https://peaklife.in/wp-content/uploads/2017/12/14278617844_918fedabf9_o-e1524549949205.jpg",
         "category": "Literature",
         "duration": "3 Hours"
@@ -92,7 +92,7 @@
         "date": "2025-05-05T07:00:00Z",
         "location": "Ananda in the Himalayas, Rishikesh",
         "availableSeats": 50,
-        "ticketPrice": 200,
+        "ticketPrice": 149,
         "image": "https://i.pinimg.com/originals/42/e2/8f/42e28f91f8c0d742e1d191f16f7676a9.png",
         "category": "Wellness",
         "duration": "3 Hours"
@@ -104,7 +104,7 @@
         "date": "2025-05-22T15:00:00Z",
         "location": "Salt Lake Stadium, Kolkata",
         "availableSeats": 70000,
-        "ticketPrice": 50,
+        "ticketPrice": 1999,
         "image": "https://www.zastavki.com/pictures/originals/2013/Sport_Football_match_036616_.jpg",
         "category": "Sports",
         "duration": "3 Hours"
@@ -116,7 +116,7 @@
         "date": "2025-07-12T18:00:00Z",
         "location": "Leela Palace, New Delhi",
         "availableSeats": 350,
-        "ticketPrice": 100,
+        "ticketPrice": 299,
         "image": "https://www.universityoffashion.com/blog/wp-content/uploads/2019/11/Louis-Vuittons-spring-2020-show.-vogue.jpg",
         "category": "Fashion",
         "duration": "3 Hours"
@@ -128,7 +128,7 @@
         "date": "2025-05-15T10:00:00Z",
         "location": "The Bombay Exhibition Centre, Mumbai",
         "availableSeats": 30,
-        "ticketPrice": 150,
+        "ticketPrice": 499,
         "image": "https://media.smallbiztrends.com/2015/09/trade-show-aerial.jpg",
         "category": "Conference",
         "duration": "4 Hours"
@@ -140,7 +140,7 @@
         "date": "2025-05-15T10:00:00Z",
         "location": "Sunset Studios, Goa",
         "availableSeats": 30,
-        "ticketPrice": 150,
+        "ticketPrice": 499,
         "image": "https://www.theoutbackexperience.in/wp-content/uploads/2016/07/nature_photography.jpg",
         "category": "Workshop",
         "duration": "5 Hours"
@@ -152,7 +152,7 @@
         "date": "2025-04-20T09:00:00Z",
         "location": "Sarsana International Exhibition Center, Surat",
         "availableSeats": 300,
-        "ticketPrice": 170,
+        "ticketPrice": 399,
         "image": "https://www.aavmc.org/wp-content/uploads/2020/05/2020-conference-wide-shot-scaled.jpg",
         "category": "Conference",
         "duration": "8 Hours",
@@ -165,7 +165,7 @@
         "date": "2025-05-05T07:00:00Z",
         "location": "Ananda in the Himalayas, Rishikesh",
         "availableSeats": 50,
-        "ticketPrice": 200,
+        "ticketPrice": 199,
         "image": "https://i.pinimg.com/originals/42/e2/8f/42e28f91f8c0d742e1d191f16f7676a9.png",
         "category": "Wellness",
         "duration": "3 Hours"
